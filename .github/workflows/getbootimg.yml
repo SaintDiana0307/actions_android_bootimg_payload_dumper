@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215151051/75024545/update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215152213/7409c020/update.zip
   TZ: Asia/Shanghai
 
 jobs:
