@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215152213/7409c020/update.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/liuqin_images_V14.0.5.0.TMYCNXM_20230517.0000.00_13.0_cn_50b6972b0b.tgz
   TZ: Asia/Shanghai
 
 jobs:
