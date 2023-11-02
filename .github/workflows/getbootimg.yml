@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/liuqin_images_V14.0.5.0.TMYCNXM_20230517.0000.00_13.0_cn_50b6972b0b.tgz
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch740aa9917ae15364/bigota.d.miui.com/OS1.0.14.0.UNBCNXM/miui_SHENNONG_OS1.0.14.0.UNBCNXM_1769ea28b5_14.0.zip
   TZ: Asia/Shanghai
 
 jobs:
