@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomirom.com/download/xiaomi-14-pro-shennong-stable-OS1.0.21.0.UNBCNXM/#china-recovery
+  ROM_URL: https://bigota.d.miui.com/OS1.0.21.0.UNBCNXM/miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0.zip
   TZ: Asia/Shanghai
 
 jobs:
